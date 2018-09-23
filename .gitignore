@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/WebBrowsingAutomation/v15
+/RecorderTests/bin/Debug
+/RecorderTests/obj/Debug
+/Recorder/bin/Debug
+/Recorder/obj
+/WebBrowsingAutomation/bin/Debug
+/WebBrowsingAutomation/obj/Debug
+/ScriptConversion/bin/Debug
+/ScriptConversion/obj
+/Playback/bin/Debug
+/Playback/obj
