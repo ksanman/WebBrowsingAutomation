@@ -1,0 +1,11 @@
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\Server.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\Server.pdb
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\System.Web.Http.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\obj\Debug\Server.dll
+C:\Users\kodysanchez\Documents\Projects\WebBrowsingAutomation-master\Server\obj\Debug\Server.pdb
